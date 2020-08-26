@@ -56,6 +56,12 @@ h1 {
     padding: 15px;
     text-align: center;
 }
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px white solid;
+
+}
 footer {
     text-align: center;
     font-size: 1rem;
